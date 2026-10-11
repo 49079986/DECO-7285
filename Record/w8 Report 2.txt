@@ -1,0 +1,75 @@
+﻿[00:00:00.000 --> 00:00:07.200]  Go to different... well it's more of a networking thing really, but there's like heaps of different things out there to do that.
+[00:00:07.200 --> 00:00:07.700]  Yep.
+[00:00:07.700 --> 00:00:14.740]  So the question becomes, why would somebody choose this one over something else that exists today?
+[00:00:14.740 --> 00:00:23.240]  Yeah, okay, so we did look into maybe like Facebook well-known, you can meet up events on Facebook, there's so many ways you can do that.
+[00:00:23.240 --> 00:00:35.240]  Eventbrite and maybe like get your guide on the market which provide events that you can go to, provide all sort of different kind of preferences you'll go to.
+[00:00:35.240 --> 00:00:51.240]  However, most of the events are like 10, 20 people minimum required and it's always like in a big group which would cause people that might not be so outgoing.
+[00:00:51.240 --> 00:01:01.240]  So from our interview we studied that some people are actually not that well maintained when there's more people in like such a big group.
+[00:01:01.240 --> 00:01:18.240]  Therefore we come up with this matchmaking idea of forming small groups, small circles within maybe four to five people and then they'll hang out and then go for outdoor like physical activities or their shared interests of the preference that they've chosen.
+[00:01:18.240 --> 00:01:20.240]  I see what you mean.
+[00:01:20.240 --> 00:01:21.240]  Yep.
+[00:01:21.240 --> 00:01:34.240]  There's probably like there's nothing wrong in your argument but the group is large, okay, but it's still solving loneliness, isn't that the initial thing that you're targeting?
+[00:01:34.240 --> 00:01:44.240]  And then people tend to form smaller groups within the larger group anyways based on just how we're talking now and suddenly you know it's not 20 people but it's like three people that have similar interests.
+[00:01:44.240 --> 00:01:59.240]  So this, this, you need to try to tighten some scope about one of those features that you have that stands out really really really strongly like how are you doing something in a new novel way.
+[00:01:59.240 --> 00:02:12.240]  I think that trying to like, like, even revolving around those ideas of like the low pressure chat or something, maybe this is a good way that you could be doing.
+[00:02:12.240 --> 00:02:28.240]  And then the peer support really leaning into one of these directions could further distinguish you from what else is doing because if you're doing everything then you're kind of like a master of none, and you're doing every like what exists already, like a more generic meetup thing.
+[00:02:28.240 --> 00:02:43.240]  Instead what I would recommend is that you try to do more research into like one or two of those things and make it more personalized for a particular user group, not just 18 to 25 young Australians, because that's also just so broad.
+[00:02:43.240 --> 00:02:57.240]  Everybody has, you know, and this is also like quite, quite broad right here. It's like everybody doesn't want unemployment, everybody, you know, is going through financial pressure, for example, right.
+[00:02:57.240 --> 00:03:14.240]  What else maybe is there for a particular person in your target audience? What are their personal characteristics, feelings, thoughts, emotions that could be also categorized and defined as your core group? And then doing something there but like really personalized for them.
+[00:03:14.240 --> 00:03:32.240]  That will make you stand out a lot more than what you're presenting here today, in my opinion. Because there's definitely things that are very similar to how you're presenting it today.
+[00:03:32.240 --> 00:03:45.240]  And my recommendation would be to try to find your own niche, your own work in this approach. That said, I think that yes, you're justifying everything. It makes complete sense. This loop exists for a reason.
+[00:03:45.240 --> 00:04:14.240]  Technology is that bridge, 100%. What you're saying here is absolutely correct. But what I think you should try and do is to find your own approach to build on top of what exists. Because one thing is to really well analyze the existing problem space and how people can arrive at conclusions and how we're doing it today and then to try and say something new with your own work.
+[00:04:14.240 --> 00:04:29.240]  The second one is to really change this.
+[00:04:29.240 --> 00:04:57.240]  So, you can see, you attend face to face.
+[00:04:57.240 --> 00:05:01.240]  This is kind of like a reward.
+[00:05:01.240 --> 00:05:02.240]  Reward?
+[00:05:02.240 --> 00:05:04.240]  Yeah, reward.
+[00:05:04.240 --> 00:05:08.240]  But think about it again, intuitively.
+[00:05:08.240 --> 00:05:24.240]  I'm on already like a hundred different apps. I get rewards from every single app because they love rewards and notifications. If I'm going to get an app, what kind of memory is it going to impress me? Yes, there will be rewards but will people actually use it?
+[00:05:24.240 --> 00:05:40.240]  You might do something here. If you make some kind of new spin on the reward idea, if you actually do something about the reward that stands out from the idea of the reward through the app, then yes, you can maybe push through that.
+[00:05:40.240 --> 00:05:56.240]  So, have a think about that. What can you do with the rewards to make it not just another meetup of rewards that they might care about? Because gamification and all that, it works in principle but if everybody's doing it, then again, right?
+[00:05:56.240 --> 00:06:11.240]  I would also highly recommend that you guys think about maybe some kind of a physical device, a tangible device, because this is a studio course where you can do that, for connections. I don't know, like people to people.
+[00:06:11.240 --> 00:06:28.240]  There might be something there that you could also try to do.
+[00:06:28.240 --> 00:06:42.240]  I've had this experience going on. If you've had this experience going on to those big events with 10 or 20 other people, they can go through this post-mortem and like you said, it's also a solution.
+[00:06:42.240 --> 00:07:08.240]  But people go to events, they still feel small, object-serving, object-weight. That's why we came up with the smaller circle thing. Yeah, it changes up when it comes into engaging more in outdoor physical activity, match-up physical interactions.
+[00:07:08.240 --> 00:07:27.240]  So then you should stronger lean into the idea of building a small circle based on a particular type of activities and then make your whole design proposal about that and make everything work for that idea.
+[00:07:27.240 --> 00:07:52.240]  So it's possible that you can do that 100%. That's your next step. Yeah, so we were actually leaning into having this idea of this matchmaking of small idea, means to build up physical activities outdoors that make you more engaging compared to those events.
+[00:07:52.240 --> 00:07:58.240]  Maybe that is the way. To enhance physical interactions.
+[00:07:58.240 --> 00:08:06.240]  I think you just need to specialize in something rather than being another platform out there.
+[00:08:06.240 --> 00:08:35.240]  Specialize in something for a particular group of your audience because so far it's too broad. Everybody faces those to a degree, right? When you do user testing, for example, you should be talking to just people, trying to select people who identify as the perfect fit for your testing in the first place too.
+[00:08:35.240 --> 00:08:44.240]  Having a survey like screening some candidates is theoretically the way you should go about it.
+[00:08:44.240 --> 00:08:53.240]  And then the last thing I would say is that it's really great that you have the journey because that's what we want to see. We want to see the journey and then the final product.
+[00:08:53.240 --> 00:09:00.240]  It's about justifying every step of the way for all the requirements.
+[00:09:00.240 --> 00:09:04.240]  For the requirements part, I would be more.
+[00:09:04.240 --> 00:09:16.240]  I would be spending on this part right here. All your findings, and then how you actually came up with the requirements what ethical considerations you're supposed to be making is that part of the same too right.
+[00:09:16.240 --> 00:09:33.240]  So, expanding this and mapping the findings to requirements and then to the features would make this would show that you're really engaging with the process and you've gone through all the steps of design stages meaningfully.
+[00:09:33.240 --> 00:09:39.240]  I think that would be my advice for your next exhibition.
+[00:09:39.240 --> 00:09:45.240]  What's the last thing? What's the next step for this week for two weeks?
+[00:09:45.240 --> 00:09:53.240]  So, from both you and Chris, you've gone through a whole lot of recommendations in terms of research.
+[00:09:53.240 --> 00:09:56.240]  So, I think we really need to look back.
+[00:09:56.240 --> 00:10:00.240]  Kind of just cut off the whole expanding of the app right now.
+[00:10:00.240 --> 00:10:08.240]  Just cut that off for now and just look at more so like, because he was talking about like, okay, well, we talked about loneliness.
+[00:10:08.240 --> 00:10:13.240]  Are you talking about the objective or more subjective type?
+[00:10:13.240 --> 00:10:21.240]  We need to look at which one we want to focus on and how that's going to lay down the stretch as well.
+[00:10:21.240 --> 00:10:26.240]  We need to scale our user base.
+[00:10:26.240 --> 00:10:31.240]  It's really narrowed down a lot of points that I think are a bit too broad right now.
+[00:10:31.240 --> 00:10:36.240]  So, I think a lot of it's going to be research leading up to next week.
+[00:10:36.240 --> 00:10:47.240]  And then brainstorming, I think he said, crazy eights. Just try to come up with some, you know, not be constrained by what we currently have.
+[00:10:47.240 --> 00:10:51.240]  Design wise, really, yeah.
+[00:10:51.240 --> 00:10:55.240]  Also, probably like, back up the interactions that we want to have.
+[00:10:55.240 --> 00:10:58.240]  It's nice to see how we're working.
+[00:10:58.240 --> 00:11:00.240]  Yeah, with research.
+[00:11:00.240 --> 00:11:01.240]  With research, yeah.
+[00:11:01.240 --> 00:11:03.240]  Like, for our decision on interactions.
+[00:11:03.240 --> 00:11:13.240]  I think the principle that the more narrow you can go when you're starting something new, right, the more you can research about it and justify it.
+[00:11:13.240 --> 00:11:18.240]  Because it's narrow enough for you to make some good decisions, make it more personal.
+[00:11:18.240 --> 00:11:28.240]  Now that you've identified the problem space really well, you need to point into one of those directions in the problem space and say, well, this is what we're going to do.
+[00:11:28.240 --> 00:11:30.240]  How we're going to address it.
+[00:11:30.240 --> 00:11:33.240]  That'll help you stand out a lot more.
+[00:11:33.240 --> 00:11:35.240]  Thank you guys.
+[00:11:35.240 --> 00:11:36.240]  Thank you.
+[00:11:36.240 --> 00:11:37.240]  Thank you so much.
+[00:11:37.240 --> 00:11:38.240]  Thank you.
+[00:11:38.240 --> 00:11:40.240]  Somebody take a photo first.
+[00:11:40.240 --> 00:11:41.240]  Yeah.
+[00:11:41.240 --> 00:11:42.240]  Take a photo first.
