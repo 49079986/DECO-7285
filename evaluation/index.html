@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="FriendZone prototype evaluation study" />
+    <title>FriendZone | Evaluation study</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Nunito+Sans:wght@400;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="grain" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="./" aria-label="FriendZone evaluation home">
+        <span class="brand-mark" aria-hidden="true">FZ</span>
+        <span>FriendZone</span>
+      </a>
+      <label class="language-control">
+        <span data-i18n="languageLabel">Language / 语言</span>
+        <select id="language" aria-label="Language / 语言">
+          <option value="en">English</option>
+          <option value="zh">简体中文</option>
+        </select>
+      </label>
+    </header>
+
+    <main class="shell">
+      <div class="progress-meta">
+        <span id="step-label">Step 1 of 6</span>
+        <span id="draft-state" aria-live="polite"></span>
+      </div>
+      <div class="progress-track" role="progressbar" aria-label="Study progress" aria-valuemin="1" aria-valuemax="6" aria-valuenow="1">
+        <span id="progress-fill"></span>
+      </div>
+
+      <section class="hero">
+        <p class="eyebrow" id="eyebrow">FRIENDZONE EVALUATION</p>
+        <h1 id="page-title">Before you begin</h1>
+        <p id="page-subtitle">About 15–20 minutes. Work at your own pace.</p>
+      </section>
+
+      <div id="content" aria-live="polite"></div>
+      <p id="form-error" class="form-error" role="alert"></p>
+
+      <nav class="study-nav" aria-label="Study navigation">
+        <button id="back" class="button button-secondary" type="button">Back</button>
+        <button id="next" class="button button-primary" type="button">Continue</button>
+      </nav>
+    </main>
+
+    <footer>
+      <span>DECO7285 · FriendZone</span>
+      <span id="footer-copy">Your answers are submitted only when you press Submit.</span>
+    </footer>
+
+    <script src="./config.js"></script>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>
+
