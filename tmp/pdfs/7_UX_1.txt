@@ -1,0 +1,427 @@
+Studio 2 – Interaction Design
+   DECO2850 / DECO7285
+
+      Week 7: User Experience
+                     Housekeeping
+• Assessment 1 completed
+• Assessment 2.1 is next week
+
+
+
+
+                                    2
+Design Exhibit 1 (Week 8)
+                  Week 7 – What to expect
+• You will get 30 mins to prep your “exhibition booth”
+• All team members must be present and actively participate
+   – No show = 0 marks for this milestone
+• You are responsible to bring everything that you need.
+   – Make use of classroom walls and/or whiteboards
+• We will bring the following
+   – Butchers' papers, markers, scissors, tape
+• 2 x tutors will assess your work at different times
+   – Each tutor will spend 10-15 minutes at your booth
+• You will have the first 5 minutes to pitch your project
+   – You can simply show a demo of your project OR run a role-play OR use any
+     other creative form to show your work
+                     Today’s Topic
+
+• 10:00 to 10:30 | Project Feasibility discussion
+• 10:30 to 11:00 | Intro to User Experience (UX)
+• 11:00 to 13:50 | Studio: Apply learnings in your own
+  projects
+
+
+
+Outcome:
+Be able to incorporate UX in your prototypes
+User Experience
+                  6
+User Experience
+
+
+We don’t just use technology,
+                      we live with it.
+
+
+
+
+                                         7
+      Waking-up Experience
+
+
+
+
+(1)                         (2)
+
+
+
+         Which scenario would you prefer?
+              Philips’ wake-up lights       8
+What is User Experience?
+
+
+
+
+                           9
+User Experience
+
+        Experience
+        Do users enjoy using it?
+        Does it add value to their lives?
+
+
+
+
+                         Usability
+                         Is it easy to use?
+                         Efficiency, timeliness, etc.
+
+
+
+
+                                            Functionality
+                                            Does it work?
+                                            Does it do what it is supposed to do?
+
+
+                                                                                    10
+     Usability to User Experience
+Usability Goals              User Experience Goals
+
+-    Consistency             -    Enjoyment
+-    User-control            -    Fun
+-    Flexibility             -    Pleasure
+-    Error-prevention        -    Values
+-    Help                    -    Emotions
+-    etc...                  -    etc…
+
+
+
+
+         Objective goals to Subjective goals
+                                                     11
+           User Experience Goals
+• satisfying          • aesthetically pleasing
+• enjoyable           • supportive of creativity
+• engaging            • supportive of creativity
+• pleasurable         • rewarding
+• exciting            • fun
+• entertaining        • provocative
+• helpful             • surprising
+• motivating          • enhancing sociability
+• challenging         • emotionally fulfilling
+
+                                                   12
+                User Experience Design
+
+• Experience before Product
+• Beyond utility and look-and-feel
+• Holistic approach
+• Utilize human skills and senses
+• Context plays an important role
+
+
+
+                                         13
+Approaches: User Experience
+
+                              14
+                        Approaches
+
+“Four Pleasures” – A framework to support pleasurable
+experiences in products & systems. Patrick Jordan. (2000)
+
+
+
+
+                                                            15
+                                        Four Pleasures
+                                                                                                        Patrick Jordan (2002)
+
+
+Pleasure: “the condition of consciousness or sensation induced by the
+   enjoyment or anticipation of what is felt or viewed as good or desirable;
+   enjoyment, delight, gratification. The opposite of pain.”
+
+
+The Four Pleasures:
+
+A Framework for considering Pleasure with Products
+
+•   Physio-pleasure
+•   Socio-Pleasure
+•   Ideo-Pleasure
+•   Psycho-Pleasure
+
+                                                                                                                                16
+                 Jordan, P. W. (2002). Designing pleasurable products: An introduction to the new human factors. CRC press.
+                   Four Pleasures
+Physio-pleasure
+
+-   Pleasure concerned with the body and senses
+-   Look and feel
+-   Touch, test, smell, etc.
+-   Tactile Pleasure – Telephone handset, Remote control
+-   Olfactory Pleasure – Smell inside a new car
+
+
+
+
+                                                           17
+                   Four Pleasures
+Socio-Pleasure
+- Pleasure driven from the relationships with others, e.g.
+  friends, family, loved ones, colleagues, or the society as a
+  whole.
+   - Products that facilitates social interaction: Mobile
+      phones, SMS, Tweets, etc.
+   - Products that represents your image in social contexts
+
+
+
+
+                                                                 18
+                    Four Pleasures
+Psycho-Pleasure (Psychological Pleasure)
+-   Refers to people’s cognitive reactions.
+-   The productive goals related to the system
+-   “getting a job done”, “feeling satisfied”
+-   Functional, utilitarian and usability oriented
+-   E.g. being able to use the word processor easily and producing
+    the required documents could lead to psycho-pleasure.
+
+
+
+
+                                                                     19
+                              Four Pleasures
+Ideo-Pleasure (Ideological Pleasure)
+- Refers to people’s taste, values & aspirations
+- Taste: for specific colour, shape, style or pattern
+- Value: philosophical or religious; ethics; love for
+   environment, (e.g. hybrid cars)
+- Aspirations: what people hope to become or want to see
+   themselves as; e.g. good career, wealthy.
+
+
+
+
+    Taste for Harley Davidson Motor Bikes      Electric Car   20
+An Exercise
+
+
+
+
+              21
+           Exercise: Design
+
+• Product — Portable Music Player
+• Target Group — Teenage Girls
+
+
+
+
+Using Pat Jordan’s Four Pleasures framework
+
+                                              22
+                          Persona: Gabriella Mendez
+•   16-year-old student
+•   lives in Barcelona
+•   studies music in high-school
+•   very ambitious and wants make a career in the music industry
+•   loves R&B, Hip-hop and Reggae music and has music CDs of
+    almost all R&B stars.
+•   stays at the school hostel but keeps regular contact with her
+    parents
+•   whenever in her room, she always listens to music on her
+    computer. Her room is full of posters of movie/pop stars.
+•   keen sports player – an active member of the school’s
+    basketball team
+•   cares for her fitness, sometimes goes out for drinks with team-
+    mates
+•   dates Carlos, a 17-year-old student in the same school
+•   Goes out to the musical shows
+•   friends slightly envious of her lifestyle                         23
+               Physio-Product Characters
+Physio-pleasure
+
+-   Pleasure concerned with the    •   Texture: Feels good in the hand
+    body and senses                •   Easy to carry around
+-   Touch, test, smell, etc.       •   Fits well and comfortably inside her
+-   Tactile Pleasure – Telephone       pocket
+    handset, Remote control
+-   Olfactory Pleasure – Smell     •   Operate without causing damage to
+    inside a new car                   fingernails
+                                   •   Should have aesthetic look & feel
+
+
+
+
+                                                                              24
+               Socio-Product Characters
+Socio-Pleasure
+- Pleasure driven from the              •   Sharing playlists to friends via WiFi or
+   relationships with others, e.g.          Bluetooth.
+   friends, family, loved ones,
+                                        •   Being able to know what music her
+   colleagues, or the society as a
+                                            friends are listening to
+   whole.
+     - Products that facilitates        •   Recommendation songs based on her
+        social interaction: Mobile          friends’ playlists
+        phones, SMS, Tweets, etc.       •   Should be competitive amongst her
+     - Products that represents             friend circle
+        your image in social contexts
+
+
+
+
+                                                                                       25
+             Psycho-Product Characters
+Psycho-Pleasure
+                                        •   Supports quick and intuitive
+-   Refers to people’s cognitive            operations
+    reactions.
+-   The productive goals related with   •   Enhanced music quality
+    the system                          •   Personalization of music
+-   “getting a job done”, “feeling      •   Fitness-related features
+    satisfied”
+-   E.g. being able to use the word     •   Durable Batteries
+    processor easily and produce the
+    required documents could lead to
+    psycho-pleasure.
+
+
+
+
+                                                                           26
+                Ideo-Product Characters
+Ideo-Pleasure
+- Refers to people’s taste, values &   •   Gets news items related to the music
+   aspirations
+                                           industry
+- Taste: for specific colour, shape,
+   style or pattern                    •   Environmentally friendly (not too
+- Value: philosophical or religious,       noisy for others)
+   ethics, love for environment,
+   (e.g. hybrid cars)
+- Aspirations: what people hope
+   to become or want to see
+   themselves as; e.g. good career,
+   wealthy.
+
+
+
+
+                                                                                  27
+       Gabriella’s Portable Music Player
+Physio-Product Characters             Socio-Product Characters
+• Texture: Feels good in the hand     • Sharing playlists to friends via WiFi
+• Easy to carry around                   or Bluetooth.
+• Fits well and comfortably inside    • Being able to know what music her
+   her pocket                            friends are listening to
+• Operate without causing damage      • Should convey her socio-economic
+   to fingernails                        & cultural status
+• Should have aesthetic look & feel   • Should be competitive amongst
+                                         her friend circle
+
+Psycho-Product Characters             Ideo-Product Characters
+• Supports quick and intuitive        • Gets news items related to the
+   operations                            music industry
+• Enhanced music quality              • Environmentally friendly (not too
+• Personalization of music               noisy for others)
+• Fitness-related features
+• Durable Batteries
+                                                                                28
+                        References
+• Funology – From Usability to Enjoyment – Mark Blythe, Kees
+  Overbeeke, Andrew Monk, Peter Wright (2003)
+• Emotional Design – Don Norman (2004)
+• Technology as Experience – John McCarthy, Peter Wright
+  (2004)
+• Designing pleasurable products: An introduction to the new
+  human factors. Jordan, P. W. (2000).
+• Hassenzahl and Tractinsky (2006) User experience – a research
+  agenda. In Behavior and Information Technology.
+
+                                                              29
+Any Questions?
+
+
+
+
+                 30
+                           UX Activity
+Re-visit your prototypes using
+• Pleasure Framework
+
+Steps:
+1. Brainstorm “what experiences you want your participants to
+   have” - 20-30 mins
+2. Create/Update a user persona (use data from your field studies) -
+   20-30 mins
+3. Apply one of the Four Pleasure frameworks – 30 min to 1 hr
+4. Update your prototypes
+          1. Think about “Experience” first
+• In your teams, brainstorm, what experiences your end-user
+  should have from your product
+  – Develop family cohesion, belongingness in children
+  – Reduce stress at workplaces
+
+
+• Don’t think about prototype features or functionalities, at this
+  stage
+
+
+                                                                     32
+            2. Update/Create a Persona
+• Update your persona based on
+  new insights
+
+
+
+
+                                         33
+          3. Apply the Pleasures Framework
+Physio-pleasure                                    Socio-Pleasure
+                                                   - Pleasure driven from the relationships
+-   Pleasure concerned with the                        with others, e.g. friends, family, loved
+    body and senses                                    ones, colleagues, or the society as a
+-   Touch, test, smell, etc.                           whole.
+-   Tactile Pleasure – Telephone                   - Products that facilitates social
+    handset, Remote control                            interaction: Mobile phones, SMS,
+-   Olfactory Pleasure – Smell                         Tweets, etc.
+    inside a new car                               - Products that represents your image
+                                                       in social contexts
+
+              Psycho-Pleasure (Psychological Pleasure)                    Ideo-Pleasure
+                                                                          -   Refers to people’s taste, values &
+              -   Refers to people’s cognitive                                aspirations
+                  reactions.                                              -   Taste: for specific colour, shape,
+              -   The productive goals related to the                         style or pattern
+                  system                                                  -   Value: philosophical or religious,
+              -   “getting a job done”, “feeling                              ethics, love for environment, (e.g.
+                  satisfied”                                                  hybrid cars)
+              -   Functional, utilitarian and usability                   -   Aspirations: what people hope to
+                  oriented                                                    become or want to see themselves
+              -   E.g. being able to use the word                             as; e.g. good career, wealthy.
+                  processor easily and producing the
+                  required documents could lead to                                                                  34
+                  psycho-pleasure.
+            4. Re-design Your Prototypes
+• Prototype development
+
+• Show us the new features
+
+
+
+
+                                           35
+Break
+
+
+
+
+        36
+

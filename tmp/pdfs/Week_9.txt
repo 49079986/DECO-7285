@@ -1,0 +1,140 @@
+Studio 2 – Interaction Design
+   DECO2850 / DECO7285
+
+        Week 9: User Enactment
+Why are we doing this?
+Steps:
+1. Form a Team and Define a Project
+   • No technology/app at this stage
+2. Plan a study to investigate the problem further
+   • E.g. “How do UQ’s International students manage
+     their diet?”
+      • Develop a suit of methods (interviews, observations, etc.)
+        to find answer to the question
+      • Engage with potential users and collect data
+3. Analyse data and develop initial ideas for
+   design
+4. Develop prototype – Iteration 1
+5. Engage with same users and trial/ evaluate/
+   assess the prototype
+6. Develop final prototype – Iteration 2
+Reminders
+• Keep on making Design Journal entries
+• In week 13, complete/fully-functional prototypes
+   • You can use open-source applications, APIs (cite them)
+
+
+• Next week is semester break.
+• Marks for Assessment 2.1 released this morning.
+Today’s Topic
+• 10:00 to 10:30 | Assessment feedback
+• 10:30 to 11:15 | Intro: User Enactment
+• 11:15 to 13:50 | Activity on User Enactment
+
+
+
+Outcome:
+Be able to run use enactment studies for your projects.
+Evaluation is about understanding…
+
+
+
+                  [Future] Technology Use
+Evaluation
+There is always something lacking during early evaluation…
+
+• Prototypes are ‘never’ 100% ready
+• The context/setting may not be available
+• Representative users are not available
+User Enactment
+
+
+Simulating prototypes, settings                 and/or   users for
+understanding technology use and evaluating ideas
+
+- As realistic as possible
+- At least one or two aspects should be realistic
+- Add props that help in simulation
+User Enactment – Wizard of Oz
+User Enactment – Wizard of Oz
+Role-Playing and Bodystorming
+• Participants (often design team members) act out specific scenario of
+  prototype use; physically act out in a simulated environment
+• Users’ needs, goals and problems are identified;
+• Better understanding of physical and spatial interactions (Homes,
+  Offices,…) can be developed
+
+
+
+
+  https://www.servicedesignlab.net/   https://magazine.startus.cc/design-thinking-prototypes-to-roleplay/   When Role Playing is Not Enough: Improved Universal Design
+                                                                                                            Education
+Role-Playing and Bodystorming
+• Let designers step into the shoes of users, simulating emotions,
+  behaviours, and decision-making “in situ”
+• Help designers understand, emotional and social dynamics
+• Playful and engaging, encouraging creativity and group collaboration
+• Quick identification of ergonomics issues; embodiment
+
+• Strong commitment to empathy is required
+• Role playing can exaggerate scenarios or miss real-world complexity
+Role-Playing and Bodystorming
+
+
+
+
+                       Experience prototyping
+           https://dl.acm.org/doi/abs/10.1145/347642.347802
+Role-Playing and Bodystorming
+
+
+
+
+           A fieldwork of the future with user enactments
+            https://dl.acm.org/doi/10.1145/2317956.2318008
+Design Fiction Probes
+Smart security devices in rental
+homes.
+
+
+
+
+                                   Laura Benton, Asimina Vasalou, and Sarah Turner. 2023. Location, Location, Security? Exploring Location-Based
+                                   Smart Device Security Concerns and Mitigations within Low-Rent Homes. In Proceedings of the 2023 ACM
+                                   Designing Interactive Systems Conference (DIS '23). Association for Computing Machinery, New York, NY, USA,
+                                   1060–1077. https://doi.org/10.1145/3563657.3596077
+Activity: User Enactment
+Develop a user enactment setup and gather feedback.
+
+• Use the material provided here
+• Use whiteboards and other resources
+
+Deliverable: A set of design improvements
+Activity: User Enactment
+Develop a roleplay scenario and invite another team to experience your
+prototype.
+• Step 1: Create a short brief of your project
+   • In the form of: Who, What, Where, How and Why (just 1 line per topic)
+• Step 2: Plan a user scenario – specific to your project
+   • Add this to your design brief
+• Step 3: Start building your user enactment setup using props and
+  material
+• Step 4: Develop a roleplay specific scenario
+Develop a list of issues
+Activity: User Enactment
+3-4 members from another team will join your project
+
+• Step 5: Select a team you want to have exchange with
+• Step 6: Role play the given scenario (previous team must have left
+  relevant info)
+   • Teams to have define roles for their members
+• Step 7: Observe and report issues, problems and future changes to
+  your prototype
+• Step 8: Discuss with the other team and share your insights
+Break
+
+
+
+
+        18
+

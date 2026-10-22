@@ -1,0 +1,126 @@
+Studio 2 – Interaction Design
+   DECO2850 / DECO7285
+
+         Week 6: Prototyping
+Why are we doing this?
+Steps:
+1. Form a Team and Define a Project
+   • No technology/app at this stage
+2. Plan a study to investigate the problem further
+   • E.g. “How do UQ’s International students manage
+     their diet?”
+      • Develop a suit of methods (interviews, observations, etc.)
+        to find answer to the question
+      • Engage with potential users and collect data
+3. Analyse data and develop initial ideas for
+   design
+4. Develop prototype – Iteration 1
+5. Engage with same users and trial/ evaluate/
+   assess the prototype
+6. Develop final prototype – Iteration 2
+Today’s Topic
+• 12:00 to 12:30 | Prototyping & Interaction Techniques
+• 12:30 to 1:00 | Demo of various applications
+• 1:00 to 1:15 | Break
+• 1:15 to 3:50 | Studio Time: Start making your prototypes
+
+
+
+Outcome:
+You should have a clear idea about your prototype and know what type
+of ‘dynamic’ features you will show in week 8
+Prototyping
+
+A rapid and iterative process
+      explore design ideas at the early stages
+      in different forms and fidelities
+      communicate these ideas with peers
+      get quick feedback (from peers and users)
+      a reflective practice.
+
+
+
+                                                  4
+Prototyping
+
+
+
+
+   TU/e       5
+Why Prototyping?
+    • You can’t get the design right the first time.
+
+                                                        OK?
+      Design Ideas         Prototype           Assess           Done!
+
+
+
+
+                           Re-design
+
+
+    • You will not get things ‘perfect’, but ‘good enough’ is
+      what you should be looking for.
+                                                                        6
+Forms of Prototypes
+
+
+
+
+                      7
+Prototypes
+
+
+                                                      Database connection
+                                               Dynamic contents – server
+   Fidelity
+
+
+
+
+                                       Static contents – HTML pages
+                                                                            Assessment 2: Milestone 1
+                             Digital Mock-ups
+                         Paper prototypes
+                   Storyboards
+              Sketches
+
+                                 Time (Stages of Design)                                        8
+Week 8
+
+
+
+
+         9
+Demo Session
+• Figma
+• Makey Makey
+• Yo-Yo Machines
+• Arduino
+• M5stack: https://m5stack.com/
+Embodied Interaction
+Playful/Ludic Interactions
+Voice-based Interaction
+Calm Technologies / Peripheral Interactions
+
+
+
+
+                           https://www.youtube.com/watch?v=ND6fsHR6M_k
+Tangible Interaction
+Extended-Reality Interactions
+Break
+
+
+
+
+        17
+Prototyping Activity
+Develop the following for your own projects
+
+• Brainstorm based on
+   • your data analysis, interaction techniques and needs of your participants
+• Main design idea in the form of a sketch
+• A storyboard
+• Start building your “dynamic” prototype
+

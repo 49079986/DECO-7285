@@ -1,0 +1,52 @@
+{
+  "input": "C:\\Users\\yuyan\\Desktop\\S4\\DECO 7285\\Design Journal\\Design_Journal_Format.docx",
+  "fonts_by_char_count": {},
+  "direct_run_formatting_runs": 15,
+  "direct_paragraph_formatting_paragraphs": 2,
+  "heading_like_paragraphs_not_heading_style": [],
+  "examples": {
+    "direct_run_formatting": [
+      {
+        "para_index": 1,
+        "run_text": "\t",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": "\t",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": "\t",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": "\t",
+        "style": "Normal"
+      },
+      {
+        "para_index": 1,
+        "run_text": "\t         ",
+        "style": "Normal"
+      }
+    ],
+    "direct_paragraph_formatting": [
+      {
+        "para_index": 27,
+        "text": "Design Computing Studio 2",
+        "style": "Normal"
+      },
+      {
+        "para_index": 28,
+        "text": "Design Journal",
+        "style": "Normal"
+      }
+    ]
+  },
+  "notes": [
+    "Direct formatting is not always wrong, but it often causes inconsistent output when templates change.",
+    "Heading-like paragraphs not using Heading styles can break TOC and accessibility."
+  ]
+}

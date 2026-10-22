@@ -1,0 +1,272 @@
+Studio 2 – Interaction Design
+   DECO2850 / DECO7285
+
+      Week 10: User Evaluation
+                    Announcements
+• Assessment 1 grades are announced
+• Assessment 4 [Post grad] announced
+• Draft Assessment 3 planning from next week
+
+
+
+
+                                               2
+           Why are we doing this?
+Steps:
+1. Form a Team and Define a Project
+   – No technology/app at this stage
+2. Plan a study to investigate the problem further
+   – E.g. “How do UQ’s International students manage
+     their diet?”
+       • Develop a suit of methods (interviews, observations, etc.)
+         to find answer to the question
+       • Engage with potential users and collect data
+3. Analyse data and develop initial ideas for design
+4. Develop prototype – Iteration 1
+5. Engage with same users and trial/ evaluate/
+   assess the prototype
+6. Develop final prototype – Iteration 2
+                      Today’s Topic
+
+• 10:00 to 10:30 | Assessments
+• 10:30 to 11:00 | Intro to User Evaluations
+• 11:00 to 13:50 | Studio: Plan your evaluations
+
+
+
+Outcome:
+Be able to run use evaluation for your projects.
+                       Evaluation in HCI
+• Aim:
+  – To assess whether the designed system supports the needs of users
+    and to study how they feel using it.
+• Occurs throughout the design life cycle
+  – results feeding back into modifications to the design.
+• Prototyping and Evaluation go hand-in-hand
+
+
+
+                                                                        5
+       Evaluation
+What
+            Experience
+            Do users enjoy using it?
+            Does it add value to their lives?
+
+
+
+
+                          Usability
+                          Is it easy to use?
+                          Efficiency, timeliness, etc.
+
+
+
+
+                                        Functionality
+                                        Does it work?
+                                        Does it do what it is supposed to do?
+
+
+
+                                                                                6
+                  Evaluation Methods
+1. Think-aloud protocols [Lab]
+2. Audio/Video Narration [In-situ]
+3. Experience Sampling [In-situ]
+4. Day Reconstruction Method [In-situ]
+
+
+
+
+                                         7
+                                  1. Think Aloud
+• Users are observed performing specific tasks
+• Users are asked to describe what they are doing and why, what they think is
+  happening, etc.
+• Proceedings are recorded for analysis
+• Advantages
+   – simplicity - requires little expertise
+   – can provide useful insight
+   – can show how system is actually use
+• Disadvantages
+   – subjective
+   – selective
+
+
+
+                                                                                8
+1. Think Aloud
+
+
+
+
+                 9
+2. Audio/Video Narration
+• Let the users verbally/visually report their experiences in a free story format.
+• Description
+   – The users tell a story of their experiences with a prototype; and their story is audio
+     recorded. The task assignment can include some topics or questions to support the
+     users.
+• Strengths
+   – The method will give the most important experiences that the users have with the
+     product
+• Weaknesses
+   – Some users may not be comfortable telling about their experiences and the story might
+     be very short.
+   – The stories need to be transcribed for later analysis
+
+
+
+                                                                                              10
+2. Video Narration
+
+
+
+
+                         [Camera pointed at Ecosphere, close up, pointing with
+                         her free hand; describing enthusiastically]:“This is the
+                         good thing so you can actually come out and you can
+                         analyse where it is that you’ve got your peak usage, so
+                         that will be the hair dryer drying my hair and that
+                         would be the blender. The pink one will be using the
+                         blender” (Single occupant: Family 2).
+
+                     Snow, S., Vyas, D. and Brereton, M. (2015). When an eco-feedback system joins the   11
+                     family. Personal & Ubiquitous Computing.
+3. Experience Sampling Method (ESM)
+• Larson / Csikszentmihalyi [1983]
+• ESM is designed to repeatedly request people to
+  document and report their thoughts, feelings and
+  actions outside the laboratory, within the context
+  of their everyday life.
+• Process for studying what people
+   – Do
+   – Think
+   – Feel
+• Asking individuals to provide systematic self-
+  reports
+   – Random occasions
+   – During specific hours
+
+
+                                                       12
+3. Experience Sampling Method (ESM)
+• Interval-contingent sampling
+   – Sample on experiences at fixed times
+   – Good for time series data
+   – Typically, burdensome to subjects
+      • They begin to expect prompts
+• Event-Contingent sampling
+   – Report on experiences based on event of interest
+   – Subject must be “cognitively-engaged” into own actions
+
+
+
+
+                                                              13
+4. Day Reconstruction Method
+Capturing in‐situ data retrospectively
+  – Experience Sampling Method
+     • High levels of participant burden
+     • Not feasible to retrieve rich qualitative accounts
+  – How does DRM work?
+     • Takes place at the end of the day
+        – All experiences are listed in a chronological order
+     • Every experience is recalled in relation to preceding ones
+
+
+
+                                                                    14
+4. Day Reconstruction Method
+An Example [Karapanos, 2009]
+• 4-week field study on “Adoption of iPhone”
+• 6 participants captured their daily experiences at the end of each
+  day by
+  – Day reconstruction: participants listed all activities of the day that
+    somehow related to their iPhone. A brief name and an estimation of time
+    spent for each activity.
+  – Experience narration: participants were asked to pick the three most
+    impactful, either satisfying or dissatisfying, experiences of that day. For
+    each of the three experiences, participants were asked to write a story
+    that describes in detail the situation, their feelings and their momentary
+    perceptions of the product.
+
+                                                                                  15
+4. Day Reconstruction Method
+
+
+
+
+                               16
+4. Day Reconstruction Method
+
+
+
+
+                               17
+4. Day Reconstruction Method
+
+
+
+
+                               18
+4. Day Reconstruction Method
+References:
+• Karapanos, E., Zimmerman, J., Forlizzi, J., Martens, J-B: User
+  Experience Over Time: An Initial Framework. CHI 2009, Boston,
+  USA.
+
+• Kahneman, Daniel, et al. "A survey method for characterizing
+  daily life experience: The day reconstruction
+  method." Science306.5702 (2004): 1776-1780.
+
+                                                                 19
+References
+• Larson, R.; Csikszentmihalyi, M. (1983). "The experience sampling
+  method". New Directions for Methodology of Social and Behavioral
+  Science. 15: 41–56.
+• S. S. Intille, J. Rondoni, C. Kukla, I. Anacona, and L. Bao, "A context-
+  aware experience sampling tool," in Proceedings of CHI '03
+  Extended Abstracts on Human Factors in Computing Systems. New
+  York, NY: ACM Press, 2003, pp. 972-973.
+• Froehlich, J., et al., “MyExperience: A System for In Situ Tracing and
+  Capturing of User Feedback on Mobile Phones,” Proc of MobiSys
+  ‘07, (Jun 2007), pp.57-70.
+                                                                         20
+References
+• Blackmon, M. H. Polson, P.G. Muneo, K & Lewis, C. (2002)
+  Cognitive Walkthrough for the Web. CHI 2002 vol.4 No.1
+  pp463–470.
+• Larson, R., & Csikszentmihalyi, M. (1983). "The experience
+  sampling method". New Directions for Methodology of Social
+  and Behavioral Science, 15, 41-56.
+• “Interaction Design”. By Preece, Rogers & Sharp.
+• “Designing Interactive Systems”. By Benyon, Turner & Turner.
+• “Human Computer Interaction”. By Dix, Finley, Abowd.
+                                                                 21
+                     Evaluation Activity
+Steps:
+1. Review evaluation methods
+2. Select a method or a suite of methods
+3. Use personas, or develop a new one
+
+4. Plan your evaluation study
+  – I.e. What questions will you ask…
+                  Role Play of Evaluation
+• Personas from each table will be shared with other teams
+  – Tutors will help you
+• One member from each team will volunteer to be a “user” for
+  another team
+  – They will review the persona and ‘pretend’ to be a potential user
+• Each team will run their evaluation method – involving a
+  “participant” (from another team)
+• Summarize your evaluation findings
+                                                                        23
+Break
+
+
+
+
+        24
+
